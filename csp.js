@@ -1,1 +1,1 @@
-<src>(alert(1)</src>
+<script>(alert(1)</script>
