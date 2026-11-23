@@ -1,1 +1,1 @@
-alert(1)
+<scr>(alert(1)</scr>
